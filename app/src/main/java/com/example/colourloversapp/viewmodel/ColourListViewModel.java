@@ -56,4 +56,10 @@ public class ColourListViewModel extends ViewModel {
                         })
         );
     }
+
+    public boolean isInputValid(String input) {
+        if(input.length() >= 3 && input.length() <= 10 )
+            return true;
+        return false;
+    }
 }

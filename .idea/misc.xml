@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/WorkSpace/Manu/ColourLoversApp/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.26614583333333336" />
         <entry key="..\:/WorkSpace/Manu/ColourLoversApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/WorkSpace/Manu/ColourLoversApp/app/src/main/res/layout/colour_item.xml" value="0.28940217391304346" />
+        <entry key="..\:/WorkSpace/Manu/ColourLoversApp/app/src/main/res/layout/colour_item.xml" value="0.107981220657277" />
         <entry key="..\:/WorkSpace/Manu/ColourLoversApp/app/src/main/res/layout/fragment_colour_grid.xml" value="0.28940217391304346" />
         <entry key="..\:/WorkSpace/Manu/ColourLoversApp/app/src/main/res/layout/fragment_colour_list.xml" value="0.28940217391304346" />
       </map>
